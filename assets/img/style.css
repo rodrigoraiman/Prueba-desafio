@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+.navbar-brand {
+    max-width: 50%;
+}
+.navbar-brand a {
+    max-height: 300px;
+    padding: 10px;
+   
+}
+.logoempresa {
+    max-width: 5%;
+}
+ 
+.trn {
+    background: transparent !important;
+}
+
+.trn a {
+    margin-right: 30px;
+    color: #fff !important;
+    border-bottom: 2px solid transparent;
+}
+
+.trn a:hover {
+    border-bottom: 2px solid;
+}
+
+h1{
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+.lorem {
+    color: white;
+}
